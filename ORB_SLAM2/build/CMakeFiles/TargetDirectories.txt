@@ -1,0 +1,9 @@
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/edit_cache.dir
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/rebuild_cache.dir
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/mono_euroc.dir
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/mono_kitti.dir
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/mono_tum.dir
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/ORB_SLAM2.dir
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/rgbd_tum.dir
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/stereo_kitti.dir
+/home/matteo/catkin_ws/src/git/ORB_SLAM2/build/CMakeFiles/stereo_euroc.dir
