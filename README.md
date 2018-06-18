@@ -65,8 +65,7 @@ Poi aprire tre terminali diversi e avviare rispettivamente: <br>
 
 ![Rosbag](/img/img_rosbag.jpg "Rosbag")
 
-<br>
-<br>
+
 
 
 
