@@ -1,6 +1,5 @@
 # homework3
 Terzo elaborato corso "Laboratorio Ciberfisico"
-<<<<<<< HEAD
 =======
 
 
@@ -24,13 +23,12 @@ Per la parte relativa all'installazione di ORBSLAM2, che necessità della librer
 ```
 <br>
 
-Dopodichè, lanciare lo script setup.sh per la configurazione iniziale
+Dopodichè, lanciare i seguenti comandi:
 
 <br>
 
-```
-  ./setup.sh
-```
+![testo alt](/img/img.jpg "Orbslam2")
+
 <br>
 
 
@@ -50,6 +48,11 @@ Poi aprire tre terminali diversi e avviare rispettivamente: <br>
   rosrun ORBSLAM_2 Stereo ORB_SLAM2/Vocabulary/ORBvoc.txt ORB_SLAM2/Examples/Stereo/EuRoC.yaml true
 ```
 
+
+![testo alt](/img/img_rosrun.jpg "Orbslam2")
+
+
+
 <br>
 • Nel terzo: <br>
 
@@ -59,10 +62,13 @@ Poi aprire tre terminali diversi e avviare rispettivamente: <br>
 
 ```
 
+
+![testo alt](/img/img_rosbag.jpg "Orbslam2")
+
 <br>
 <br>
 
-### IL RISULTATO OTTENUTO SARÀ IL SEGUENTE:
+
 
 <br>
 
@@ -75,11 +81,13 @@ Una volta terminata l'analisi della rosbag, da un terminale qualsiasi, posiziona
   pcl_viewer pointcloud.pcd
 ```
 
+![testo alt](/img/pcld.jpg "Orbslam2")
 
 
 Per ottenere invece la pointcloud clusterizzata lanciare il comando:
 
 ```
-  
+  pcl_viewer cloud_cluster_0.pcd cloud_cluster_1.pcd cloud_cluster_2.pcd cloud_cluster_3.pcd pointcloud.pcd
 ```
->>>>>>> 6727fb2e5ed9245d92eec763dc68c9430298bd23
+
+![testo alt](/img/cluster.jpg "Orbslam2")
