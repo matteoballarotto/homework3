@@ -27,7 +27,7 @@ Dopodichè, lanciare i seguenti comandi:
 
 <br>
 
-![](/img/img.jpg "Orbslam2")
+![Comandi](/img/img.jpg "Orbslam2")
 
 <br>
 
