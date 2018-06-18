@@ -27,7 +27,7 @@ Dopodichè, lanciare i seguenti comandi:
 
 <br>
 
-![testo alt](/img/img.jpg "Orbslam2")
+![](/img/img.jpg "Orbslam2")
 
 <br>
 
@@ -49,7 +49,7 @@ Poi aprire tre terminali diversi e avviare rispettivamente: <br>
 ```
 
 
-![testo alt](/img/img_rosrun.jpg "Orbslam2")
+![Rosrun](/img/img_rosrun.jpg "Rosrun")
 
 
 
@@ -63,7 +63,7 @@ Poi aprire tre terminali diversi e avviare rispettivamente: <br>
 ```
 
 
-![testo alt](/img/img_rosbag.jpg "Orbslam2")
+![Rosbag](/img/img_rosbag.jpg "Rosbag")
 
 <br>
 <br>
@@ -81,7 +81,7 @@ Una volta terminata l'analisi della rosbag, da un terminale qualsiasi, posiziona
   pcl_viewer pointcloud.pcd
 ```
 
-![testo alt](/img/pcld.jpg "Orbslam2")
+![Pointcloud](/img/pcld.jpg "Pointcloud")
 
 
 Per ottenere invece la pointcloud clusterizzata lanciare il comando:
@@ -90,4 +90,4 @@ Per ottenere invece la pointcloud clusterizzata lanciare il comando:
   pcl_viewer cloud_cluster_0.pcd cloud_cluster_1.pcd cloud_cluster_2.pcd cloud_cluster_3.pcd pointcloud.pcd
 ```
 
-![testo alt](/img/cluster.jpg "Orbslam2")
+![Cluster](/img/cluster.jpg "Orbslam2")
